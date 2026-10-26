@@ -38,15 +38,15 @@ export default function Home() {
               AI 辅助拆书 · 知识深度呈现
             </div>
             <h1 className="text-5xl md:text-7xl font-black mb-6 leading-tight">
-              <span className="gradient-text">玥清</span>
+              <span className="gradient-text">國賓</span>
               <span className="text-white"> 的 </span>
               <br className="md:hidden" />
               <span className="gradient-text">AI 拆书工坊</span>
             </h1>
             <p className="text-lg md:text-xl text-slate-400 mb-8 max-w-2xl mx-auto leading-relaxed">
-              我是玥清 · AI 摆渡人。前微软工程师、企业咨询顾问、拆书家。
+              我是國賓 · 用 AI 把读过的书变成可用的技能。
               <br />
-              以"AI+心智"双轮驱动，将每本书的智慧蒸馏为可行动的框架。
+              基于拆书帮 RIA 拆书法，将每本书的智慧蒸馏为可行动的框架。
             </p>
             <div className="flex flex-wrap items-center justify-center gap-4">
               <Link
